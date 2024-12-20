@@ -24,8 +24,8 @@ This sample app requires that you have:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/anduril/sample-app-entity-map-visualizer
-cd sample-app-entity-map-visualizer
+git clone https://github.com/anduril/sample-app-entity-visualizer
+cd sample-app-entity-visualizer
 ```
 
 ### Edit variables
