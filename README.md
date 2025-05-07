@@ -33,8 +33,9 @@ cd sample-app-entity-visualizer
 You now need to provide the sample application with the endpoint to get data from. To do so please create a `.env` file at the root of this project folder and populate it with:
 
 ```bash
-VITE_BEARER_TOKEN=""
-VITE_BASE_URL=""
+VITE_ENVIRONMENT_TOKEN=""
+VITE_SANDBOX_TOKEN=""
+VITE_LATTICE_URL=""
 ```
 
 Please contact your Anduril representative if you need assistance with populating these values.
