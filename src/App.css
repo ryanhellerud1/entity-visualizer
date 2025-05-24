@@ -1,3 +1,11 @@
 .map {
   height: 80vh;
 }
+
+.entity-details-card {
+  margin: 10px auto; /* Centers the card */
+  padding: 10px;
+  max-width: 600px; /* Or a width that fits your layout */
+  border: 1px solid #ddd; /* Subtle border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
